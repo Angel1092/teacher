@@ -1,10 +1,13 @@
+// Angel Guerra (angel.guerra@malad.us)
+// For CTE Software Development 2
+// Instructor: Mr. Gross
 
-class HelloWorld {
+/**
+ * This was modified to fix syntax errors and ensure proper output.
+ */
+public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, World!"); 
-        System.out.println("this program has an error or two in it that should be simple to find")
-        System.out.println("I'm really good at making mistakes when programing"):
-        
-
+        // This will print a simple greeting message
+        System.out.println("Hello World");
     }
 }

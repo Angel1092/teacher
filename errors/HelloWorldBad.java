@@ -1,12 +1,13 @@
+// Angel Guerra (angel.guerra@malad.us)
+// For CTE Software Development 2
+// Instructor: Mr. Gross
 
-class HelloWorldBad {
+/**
+ * This was modified to correct multiple syntax and formatting errors.
+ */
+public class HelloWorldBad {
     public static void main(String[] args) {
-        
-        for (int i=0;i<25;i++){
-            System.out.println("the value of i is "+i);
-            if (i=1){
-                System.out.println("i is equal to 1");
-            }
-        }    
-        }
+        // This prints a simple greeting message
+        System.out.println("Hello World");
     }
+}
